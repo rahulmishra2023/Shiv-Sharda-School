@@ -1,0 +1,227 @@
+body
+{
+    background: white;
+    margin: 0px 25px 0px 25px;
+}
+.sname
+{
+    background:rgb(1, 3, 46) ;
+    text-align: center;
+    color: white;
+    padding: 0px 0px 30px 0px;
+    
+
+    
+} 
+.sname img
+{
+    padding: 20px 0px 0px 40px;
+
+}
+
+.sname h2
+{
+    padding: 0px;
+    margin: auto;
+}
+
+.reg
+{
+padding-left: 820px;
+}
+
+.sname p
+{
+    margin: auto;
+    text-decoration: underline;
+}
+
+.navb
+{
+    background: grey;
+    padding-left: 300px;
+    margin-top: 0px;
+}
+.ab:hover
+
+{
+    color:white;
+    background: rgb(1, 3, 46);
+}
+.ab 
+
+{
+    
+    color: white;
+    font-size:larger;
+
+}
+
+
+
+
+
+.swiper-slide img
+{
+    max-height: 600px;
+    max-width:  1240px;    
+    object-fit: cover;
+    
+    
+}
+
+.notic
+{
+    background: brown;
+    display: flex;
+}
+.notice1
+{
+    color:white;
+}
+.notice2
+{
+    color:white;
+}
+.hb 
+{   
+    background: white;
+    padding: 20px;
+}
+.hb h1
+{
+    color: rgb(1, 3, 46);
+}
+
+.principal h2
+{
+
+
+    color: rgb(1, 3, 46);
+    
+
+    text-align: center;
+}
+.p1
+{
+    background:grey; 
+    width: 100%;
+     margin-left: 0px;
+}
+.pphoto
+{
+width: 100%;
+padding-left: 0px;
+}
+
+.paragraph
+{
+    padding: 40px 50px 0px 0px;
+    color: white;
+    width: 80%;
+    margin: auto;
+ }
+.paragraph h4
+{
+    color: rgb(1, 3, 46);
+    text-align: center;
+    padding: 60px ;
+    margin: auto;
+    text-decoration: underline;
+}
+.ptitle
+{
+    padding: 15px 0px;
+    text-align: center;
+    background: grey;
+    color:navy;
+}
+.result h2
+{
+color: black;
+text-align: center;
+}
+.result-link
+{
+    color: green
+    ;
+    margin-left: 70px;
+    text-decoration: underline;
+    text-align: center;
+}
+.direction
+{
+    padding: 5px 0px 0px 10px;
+}
+.foot img
+{
+    
+    background:white; 
+    width: 70%;
+    padding-top: 0px;
+    
+    
+}
+.qc
+{
+    padding-left: 100px;
+    color: brown;
+}
+
+.qc h2
+{
+text-decoration: underline;
+padding-top: 0px;
+
+}
+.mob
+{
+    margin-top: 0px;
+    padding-top: 10px;
+    display: flex;
+    margin-left: 20px;
+}
+.mob1
+{
+    margin-left: 20px;
+    
+
+    
+}
+.loc
+{
+    display: flex;
+    margin-top: 0px;
+    padding-top: 10px;
+    margin-left: 20px;
+}
+.loc1
+{
+    margin-left: 20px;
+}
+.mail
+{
+ 
+    display: flex;
+    margin-top: 0px;
+    padding-top: 10px;   
+    margin-left: 20px;
+}
+.mail1
+{
+    margin-left: 20px;
+}
+.qlink
+{
+    color: brown;
+    text-align: center;
+    text-decoration: underline;
+}
+.qlink-link
+{
+    color: brown;
+    text-decoration: none;
+    text-align: center;
+}
+
+
